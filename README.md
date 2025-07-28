@@ -134,10 +134,6 @@ Guess the Number Game/
 ### Contributing
 Feel free to fork this project and submit pull requests for improvements!
 
-## 📄 License
-
-This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
-
 ## 🎉 Enjoy Playing!
 
 Have fun challenging yourself with this number guessing game! Try to beat your best score and see how few attempts you can solve it in. The optimal mathematical solution can be achieved in at most 7 guesses using binary search strategy.
