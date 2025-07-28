@@ -101,14 +101,6 @@ Guess the Number Game/
 3. **Pattern Recognition**: Notice how the feedback changes with distance
 4. **Optimal Strategy**: Aim to solve in 7 guesses or fewer (log₂(100) ≈ 6.6)
 
-## 🌐 Browser Compatibility
-
-### Fully Supported
-- ✅ Chrome 60+
-- ✅ Firefox 55+
-- ✅ Safari 12+
-- ✅ Edge 79+
-
 ### Features Used
 - CSS Grid and Flexbox
 - ES6 JavaScript features
@@ -129,48 +121,6 @@ Guess the Number Game/
 - Simplified animations for better performance
 - Automatic keyboard appearance for number input
 - Swipe-friendly interface elements
-
-## 🎨 Customization Options
-
-### Easy Modifications
-1. **Change Number Range**: Modify the random number generation in `script.js`
-2. **Adjust Difficulty**: Change hint timing or feedback detail level
-3. **Update Colors**: Modify CSS color variables for different themes
-4. **Add Sound Effects**: Include audio feedback for actions
-5. **High Score System**: Add local storage to track best attempts
-
-### Color Themes
-The game uses a modern purple gradient theme, but you can easily customize:
-- Primary: `#667eea` to `#764ba2`
-- Success: `#48bb78` to `#38a169`
-- Warning: `#ed8936` to `#dd6b20`
-- Error: `#f56565` to `#e53e3e`
-
-## 🐛 Troubleshooting
-
-### Common Issues
-1. **Input Not Working**: Ensure JavaScript is enabled in your browser
-2. **Animations Choppy**: Try closing other browser tabs for better performance
-3. **Layout Issues**: Clear browser cache and reload the page
-4. **Mobile Display**: Ensure viewport meta tag is present in HTML
-
-### Performance Tips
-- Close unnecessary browser tabs
-- Ensure stable internet connection for font loading
-- Use modern browsers for best experience
-- Clear browser cache if experiencing issues
-
-## 🔮 Future Enhancements
-
-### Potential Features
-- 🏆 **High Score System**: Track and display best attempt records
-- 🎵 **Sound Effects**: Audio feedback for game actions
-- 🎨 **Theme Selector**: Multiple color themes to choose from
-- 📊 **Statistics**: Detailed game statistics and analytics
-- 👥 **Multiplayer Mode**: Compete with friends online
-- 🎮 **Difficulty Levels**: Easy (1-50), Medium (1-100), Hard (1-1000)
-- 💾 **Save Progress**: Local storage for game preferences
-- 🏅 **Achievement System**: Unlock badges for various accomplishments
 
 ## 👨‍💻 Development
 
@@ -196,4 +146,4 @@ Have fun challenging yourself with this number guessing game! Try to beat your b
 
 ---
 
-*Made with ❤️ for fun and learning*
+*Made By Rksingh for fun and learning*
